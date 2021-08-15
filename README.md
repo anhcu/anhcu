@@ -1,7 +1,7 @@
-# Hi, I'm Anh Cu!  [![Generic badge](https://img.shields.io/badge/<RESUME>-<COLOR>.svg)](https://docs.google.com/document/d/12aLqDhG_LwmI-iwMubeUAxy4WYtasoBdI4JusfkhF8M/edit?usp=sharing)
- 
- 👋
+# Hi, I'm Anh Cu! 👋
+
 #### I'm currently enrolled at Georgia Tech, pursuing a certificate in ***Full-Stack Web Development***.
+
 <a href="https://www.linkedin.com/in/anh-cu">
   <img
     alt="Linkedin"
@@ -18,6 +18,13 @@
   <img
     alt="Gmail"
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  />
+</a>
+ 
+<a [![Generic badge](https://img.shields.io/badge/<RESUME>-<COLOR>.svg)]>
+  <img
+    alt="resume"
+    src="https://docs.google.com/document/d/12aLqDhG_LwmI-iwMubeUAxy4WYtasoBdI4JusfkhF8M/edit?usp=sharing"
   />
 </a>
  
