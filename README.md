@@ -1,7 +1,6 @@
 # Hi, I'm Anh Cu! 👋
 
 #### I'm currently enrolled at Georgia Tech, pursuing a certificate in ***Full-Stack Web Development***.
-## [![Generic badge](https://img.shields.io/badge/RESUME-<COLOR>.svg)](https://docs.google.com/document/d/12aLqDhG_LwmI-iwMubeUAxy4WYtasoBdI4JusfkhF8M/edit?usp=sharing)
 
 <a href="https://www.linkedin.com/in/anh-cu">
   <img
@@ -58,13 +57,5 @@ passion that only gets more exciting as I go by.*
 
 ## `In Progress ` 🚧 
 Currently working on updating portfolio and creating a Tattoo artist website from scratch.
-                                                                                                                   
- [![Generic badge](https://img.shields.io/badge/<RESUME>-<COLOR>=white&style=for-the-badge)](https://docs.google.com/document/d/12aLqDhG_LwmI-iwMubeUAxy4WYtasoBdI4JusfkhF8M/edit?usp=sharing)
- 
- <a href="https://docs.google.com/document/d/12aLqDhG_LwmI-iwMubeUAxy4WYtasoBdI4JusfkhF8M/edit?usp=sharing">
- [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
-  />
-</a>
-
 
 
