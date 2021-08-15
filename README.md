@@ -18,6 +18,7 @@
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
   />
 </a>
+# [📄](https://www.google.com "Google's Homepage")
 
 
 #
@@ -49,5 +50,5 @@ passion that only gets more exciting as I go by.*
 ## `In Progress ` 🚧 
 Currently working on updating portfolio and creating a Tattoo artist website from scratch.
 
-# [📄](resume)(https://www.google.com "Google's Homepage")
+
 
