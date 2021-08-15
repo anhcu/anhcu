@@ -48,7 +48,7 @@ passion that only gets more exciting as I go by.*
 ## `In Progress ` 🚧 
 Currently working on updating portfolio and creating a Tattoo artist website from scratch.
                                                                                                                    
- [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://docs.google.com/document/d/12aLqDhG_LwmI-iwMubeUAxy4WYtasoBdI4JusfkhF8M/edit?usp=sharing)
+ [![Generic badge](https://img.shields.io/badge/<RESUME>-<RESUME>-<COLOR>.svg)](https://docs.google.com/document/d/12aLqDhG_LwmI-iwMubeUAxy4WYtasoBdI4JusfkhF8M/edit?usp=sharing)
  
  <a href="https://docs.google.com/document/d/12aLqDhG_LwmI-iwMubeUAxy4WYtasoBdI4JusfkhF8M/edit?usp=sharing">
  [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
