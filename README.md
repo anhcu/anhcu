@@ -18,7 +18,19 @@
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
   />
 </a>
-# [📄](https://www.google.com "Google's Homepage")
+
+
+<a href="https://www.google.com "Google's Homepage">
+  <img
+    alt="Gmail"
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  />
+</a>
+                                        
+                                        [![Generic badge](https://img.shields.io/badge/version-FR-blue.svg)](https://guerinpe.com/fr/resume/)[![Generic badge](https://img.shields.io/badge/version-ES-yellow.svg)](https://guerinpe.com/es/resume/)  
+                                        
+                                        
+//# [📄](https://www.google.com "Google's Homepage")
 
 
 #
