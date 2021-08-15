@@ -31,7 +31,6 @@ passion that only gets more exciting as I go by.*
 
 ## `Acceptable Languages & Technology` 
 ##### 📚💻☕😊Ongoing learing new languages and technology.
-</br>
 <p>
    <img alt="JQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
