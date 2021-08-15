@@ -49,5 +49,5 @@ passion that only gets more exciting as I go by.*
 ## `In Progress ` 🚧 
 Currently working on updating portfolio and creating a Tattoo artist website from scratch.
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[	📄](https://www.google.com "Google's Homepage")
 
