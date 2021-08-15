@@ -31,6 +31,8 @@
                                         
                                         
 //# [📄](https://www.google.com "Google's Homepage")
+                                                   
+                                                   [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
 
 #
