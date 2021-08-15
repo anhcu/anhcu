@@ -24,8 +24,8 @@
 
 <a href="https://docs.google.com/document/d/12aLqDhG_LwmI-iwMubeUAxy4WYtasoBdI4JusfkhF8M/edit?usp=sharing">
   <img
-    alt="Gmail"
-    src="https://img.shields.io/badge/RESUME-F2F4F9?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000"
+    alt="RESUME"
+    src="https://img.shields.io/badge/RESUME?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000"
   />
 </a>
 
