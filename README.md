@@ -18,7 +18,7 @@
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
   />
 </a>
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
 
 #
 *From the moment I produced “Hello World” in the console of my first application,
@@ -47,5 +47,7 @@ passion that only gets more exciting as I go by.*
 
 
 ## `In Progress ` 🚧 
-Currently working on updating portfolio and creating a Tattoo artist website from scratch. 
+Currently working on updating portfolio and creating a Tattoo artist website from scratch.
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
