@@ -44,7 +44,6 @@ passion that only gets more exciting as I go by.*
    <img alt="GIT" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />  
 </p>
 
-#
 
 ## `In Progress ` 🚧 
 Currently working on updating portfolio and creating a Tattoo artist website from scratch. 
