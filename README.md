@@ -25,7 +25,7 @@
 <a href="https://docs.google.com/document/d/12aLqDhG_LwmI-iwMubeUAxy4WYtasoBdI4JusfkhF8M/edit?usp=sharing">
   <img
     alt="RESUME"
-    src="https://img.shields.io/badge/RESUMEstyle=for-the-badge&logo=c&logoColor=white"
+    src="https://img.shields.io/badge/RESUME?style=for-the-badge&logo=c&logoColor=white"
   />
 </a>
 
