@@ -2,6 +2,7 @@
 
 #### I'm currently enrolled at Georgia Tech, pursuing a certificate in ***Full-Stack Web Development***.
 ## [![Generic badge](https://img.shields.io/badge/RESUME-<COLOR>.svg)](https://docs.google.com/document/d/12aLqDhG_LwmI-iwMubeUAxy4WYtasoBdI4JusfkhF8M/edit?usp=sharing)
+[![forthebadge cc-nc](http://ForTheBadge.com/images/badges/cc-nc.svg)](https://creativecommons.org/licenses/by-nc/4.0)
 <a href="https://www.linkedin.com/in/anh-cu">
   <img
     alt="Linkedin"
