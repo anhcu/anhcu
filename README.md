@@ -18,9 +18,9 @@
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
   />
 </a>
-<p>
+<a>
    [![Generic badge](https://img.shields.io/badge/<RESUME>-<COLOR>.svg)](https://docs.google.com/document/d/12aLqDhG_LwmI-iwMubeUAxy4WYtasoBdI4JusfkhF8M/edit?usp=sharing)
- </p>
+ </a>
 
 #
 *From the moment I produced “Hello World” in the console of my first application,
