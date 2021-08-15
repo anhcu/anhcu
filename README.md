@@ -19,22 +19,6 @@
   />
 </a>
 
-
-<a href="https://www.google.com "Google's Homepage">
-  <img
-    alt="Gmail"
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-  />
-</a>
-                                        
-                                        [![Generic badge](https://img.shields.io/badge/version-FR-blue.svg)](https://guerinpe.com/fr/resume/)[![Generic badge](https://img.shields.io/badge/version-ES-yellow.svg)](https://guerinpe.com/es/resume/)  
-                                        
-                                        
-//# [📄](https://www.google.com "Google's Homepage")
-                                                   
-                                                   [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
-
-
 #
 *From the moment I produced “Hello World” in the console of my first application,
 I knew I was hooked into the world of software development. But software
