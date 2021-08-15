@@ -7,7 +7,7 @@
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
-</a>
+</a> 
 <a href="https://www.instagram.com/turnm3anh/">
   <img
     alt="Instagram"
