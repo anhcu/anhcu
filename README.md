@@ -21,7 +21,7 @@
   />
 </a>
  
-<a [![Generic badge](https://img.shields.io/badge/<RESUME>-<COLOR>.svg)]>
+[![Generic badge](https://img.shields.io/badge/<RESUME>-<COLOR>.svg)]>
   <img
     alt="resume"
     src="https://docs.google.com/document/d/12aLqDhG_LwmI-iwMubeUAxy4WYtasoBdI4JusfkhF8M/edit?usp=sharing"
