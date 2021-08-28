@@ -14,6 +14,9 @@
     src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
   />
 </a>
+
+
+#### How to get a hold of me.
 <a href="mailto:anhcu714@gmail.com">
   <img
     alt="Gmail"
@@ -27,8 +30,6 @@
     src="https://img.shields.io/badge/📝 RESUME%20-32A350?style=for-the-badge&logo"
   />
 </a>
-
-#### How to get a hold of me.
 
 
 #
