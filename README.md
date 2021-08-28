@@ -28,6 +28,8 @@
   />
 </a>
 
+#### How to get a hold of me.
+
 
 #
 *From the moment I produced “Hello World” in the console of my first application,
