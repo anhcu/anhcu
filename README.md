@@ -8,13 +8,13 @@
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a> 
-<a href="https://www.instagram.com/turnm3anh/">
+<!-- <a href="https://www.instagram.com/turnm3anh/">
   <img
     alt="Instagram"
     src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
   />
 </a>
-
+ -->
 
 #### How to get a hold of me.
 <a href="mailto:anhcu714@gmail.com">
