@@ -59,5 +59,5 @@ passion that only gets more exciting as I go by.*
 
 
 ## `In Progress ` 🚧 
-Currently working on my portfolio, improving on PWA and networking.
+Currently working on my portfolio, exploring C# and networking.
 
