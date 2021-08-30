@@ -58,6 +58,6 @@ passion that only gets more exciting as I go by.*
 </p>
 
 
-## `In Progress ` 🚧 
+##  🚧  `In Progress ` 🚧 
 Currently working on my portfolio, exploring C# and networking.
 
