@@ -42,6 +42,7 @@ passion that only gets more exciting as I go by.*
 
 #
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=anhcu)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=anhcu&theme=highcontrast&show_icons=true&count_private=true)
 
