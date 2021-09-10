@@ -10,7 +10,7 @@
   />
 </a> 
 
-<a href="https://www.linkedin.com/in/anh-cu">
+<a href="https://anhcu.github.io/portfolio/">
   <img
     alt="Portfolio"
     src="https://img.shields.io/badge/📝 PORTFOLIO%20-32A350?style=for-the-badge&logo"
