@@ -1,6 +1,8 @@
 # Hi, I'm Anh Cu! 👋
 
 #### I'm currently enrolled at Georgia Tech, pursuing a certificate in ***Full-Stack Web Development***.
+Profolio - https://anhcu.github.io/portfolio/
+
 
 <a href="https://www.linkedin.com/in/anh-cu">
   <img
@@ -63,5 +65,5 @@ passion that only gets more exciting as I go by.*
 
 
 ##  🚧  `In Progress `  🚧 
-Currently working on my portfolio, exploring C# and networking.
+Exploring AWS and networking.
 
