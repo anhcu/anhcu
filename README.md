@@ -1,7 +1,6 @@
 # Hi, I'm Anh Cu! 👋
 
 #### I'm currently enrolled at Georgia Tech, pursuing a certificate in ***Full-Stack Web Development***.
-Profolio - https://anhcu.github.io/portfolio/
 
 
 <a href="https://www.linkedin.com/in/anh-cu">
@@ -10,6 +9,13 @@ Profolio - https://anhcu.github.io/portfolio/
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a> 
+
+<a href="https://www.linkedin.com/in/anh-cu">
+  <img
+    alt="Portfolio"
+    src="https://img.shields.io/badge/📝 PORTFOLIO%20-32A350?style=for-the-badge&logo"
+  />
+</a>
 <!-- <a href="https://www.instagram.com/turnm3anh/">
   <img
     alt="Instagram"
