@@ -1,4 +1,4 @@
-<p align="center"># Hi, I'm Anh Cu! 👋</p>
+<center># Hi, I'm Anh Cu! 👋</center>
 
 <p align="center">
     // Your content
