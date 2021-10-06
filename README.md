@@ -1,13 +1,6 @@
-<center># Hi, I'm Anh Cu! 👋</center>
-
 <div alig="center">
-  <center><h1>My title</h1></center>
+  <center><h1>Hi, I'm Anh Cu! 👋</h1></center>
 </div>
-
-<p align="center">
-    // Your content
-</p>
-
 
 ## ***Full-Stack Web Developer***.
 
