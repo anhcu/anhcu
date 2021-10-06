@@ -1,6 +1,6 @@
 # Hi, I'm Anh Cu! 👋
 
-#### I'm currently enrolled at Georgia Tech, pursuing a certificate in ***Full-Stack Web Development***.
+####***Full-Stack Web Developer***.
 
 
 <a href="https://www.linkedin.com/in/anh-cu">
