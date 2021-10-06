@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<b>My subclass</b>
+<b> ***Full-Stack Web Developer***</b>
 
 </div>
 
