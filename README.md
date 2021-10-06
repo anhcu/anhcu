@@ -13,7 +13,7 @@
   />
 </a>
 
-<a href="https://docs.google.com/document/d/12aLqDhG_LwmI-iwMubeUAxy4WYtasoBdI4JusfkhF8M/edit?usp=sharing">
+<a href="https://docs.google.com/document/d/1mXf4AnQk6QVetIHExKvDpkcAbR-ArRaJTNZGg7qWoZU/edit?usp=sharing">
   <img
     alt="RESUME"
     src="https://img.shields.io/badge/📝 RESUME%20-32A350?style=for-the-badge&logo"
