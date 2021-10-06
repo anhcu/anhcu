@@ -1,6 +1,6 @@
 <div alig="center">
   <center><h1>Hi, I'm Anh Cu! 👋</h1></center>
-  <center><h4>Full-Stack Web Developer</h1></center>
+
 </div>
 
 ## ***Full-Stack Web Developer***.
