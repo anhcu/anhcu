@@ -1,4 +1,7 @@
-# Hi, I'm Anh Cu! 👋
+<p align="center">
+  # Hi, I'm Anh Cu! 👋
+</p>
+
 
 ## ***Full-Stack Web Developer***.
 
