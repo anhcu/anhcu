@@ -1,4 +1,16 @@
 <div alig="center">
+  <center><h1>My title</h1></center>
+</div>
+
+<br/>
+
+<div align="center">
+
+<b>My subclass</b>
+
+</div>
+
+<div alig="center">
   <center><h1>Hi, I'm Anh Cu! 👋</h1></center>
 
 </div>
