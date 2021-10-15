@@ -22,12 +22,7 @@
 </div>
 
 <h2>About me</h2>
-From the moment I produced “Hello World” in the console of my first application,
-I knew I was hooked into the world of web development. But web
-development has never been “just a job” for me, it’s offered an engaging
-challenge to continually learn and improve my skills in creating high quality
-application. What started with a simple “Hello World” has become a full-fledged
-passion that only gets more exciting as I go by.
+Exceptionally creative and dependable Web Developer with stellar customer service and superb work ethic. Hardworking and passionate job seeker with strong organizational skills.  Thrives in a collaborative environment as a planner and a leader. Eager candidate looking to bring these experiences to add immense values as well as learn and continuously adapt in a collaborative environment.
 
 ## Connect with with me 
 
