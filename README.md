@@ -22,7 +22,7 @@
 </div>
 
 <h2>About me</h2>
-Exceptionally creative and dependable Web Developer with stellar customer service and superb work ethic. Hardworking and passionate job seeker with strong organizational skills.  Thrives in a collaborative environment as a planner and a leader. Eager candidate looking to bring these experiences to add immense values as well as learn and continuously adapt in a collaborative environment.
+Exceptionally creative and a dependable Web Developer with superb customer service and work ethic. Passionate job seeker with strong organizational skills. Thrives in a collaborative environment as a planner and a leader. Eager, hardworking candidate looking to bring these experiences to add immense values as well as learn and continuously adapt in a collaborative environment.
 
 ## Connect with with me 
 
