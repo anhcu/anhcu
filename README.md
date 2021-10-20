@@ -33,7 +33,7 @@ Exceptionally creative and a dependable Web Developer with superb customer servi
   />
 </a> 
 
-<a href="https://anhcu.github.io/portfolio/">
+<a href="https://anhcu.github.io/AnhCuPortfolio/">
   <img
     alt="Portfolio"
     src="https://img.shields.io/badge/📝 PORTFOLIO%20-32A350?style=for-the-badge&logo"
